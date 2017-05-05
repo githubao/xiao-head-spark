@@ -1,3 +1,7 @@
+.idea
+out/
+xiao-head-spark.iml
+
 *.class
 *.log
 
@@ -15,3 +19,8 @@ project/plugins/project/
 # Scala-IDE specific
 .scala_dependencies
 .worksheet
+
+
+
+
+
