@@ -14,6 +14,7 @@ public class AppTest2 {
     @Test
     public void test() {
         System.out.println(AppTest.VALUE);
+        Integer.parseInt("44");
     }
 
 }
